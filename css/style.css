@@ -111,6 +111,7 @@ body {
     color: #fff;
     font-size: 6rem;
     text-transform: uppercase;
+    text-align: left;
 }
 
 .content p {
@@ -119,6 +120,8 @@ body {
     font-weight: 120;
     line-height: 1.8;
     padding: 1rem 0;
+    text-align: justify;
+    margin: 1rem 0;
 }
 
 .title {
