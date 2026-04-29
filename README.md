@@ -18,7 +18,8 @@ Este projeto foi criado com o intuito de praticar:
 ## Tecnologias Utilizadas
 
 - HTML5  
-- CSS3  
+- CSS3
+- JavaScript  
 
 ## Funcionalidades
 
