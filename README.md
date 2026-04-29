@@ -1,6 +1,6 @@
 # Cafeteria Website
 
-Projeto de um site simples para uma cafeteria, desenvolvido utilizando **HTML5** e **CSS3**, com foco em estrutura semântica, organização visual e responsividade básica.
+Projeto de um site simples para uma cafeteria, desenvolvido utilizando **HTML5**, **CSS3** e **JavaScript**, com foco em estrutura semântica, organização visual e responsividade básica.
 
 ## Preview
 
